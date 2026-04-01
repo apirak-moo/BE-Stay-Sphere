@@ -5,5 +5,7 @@
     <Project Path="StaySphere.Domain/StaySphere.Domain.csproj" Id="9345cfff-c67c-405c-8cfe-7f7d9a3de8df" />
     <Project Path="StaySphere.Infrastructure/StaySphere.Infrastructure.csproj" Id="1352ca27-156a-4aa4-a093-f0990dc00e52" />
   </Folder>
-  <Folder Name="/test/" />
+  <Folder Name="/test/">
+    <Project Path="StaySphere.Test.Application/StaySphere.Test.Application.csproj" Id="ed3ad987-ff86-419f-8503-bc180b86dee8" />
+  </Folder>
 </Solution>
