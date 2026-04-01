@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="StaySphere.API/StaySphere.API.csproj" Id="68d5998e-239d-4e42-89d2-2799b40229a3" />
+    <Project Path="StaySphere.Application/StaySphere.Application.csproj" Id="e3d24e46-f668-4e1a-a29a-552c4e1d0716" />
+    <Project Path="StaySphere.Domain/StaySphere.Domain.csproj" Id="9345cfff-c67c-405c-8cfe-7f7d9a3de8df" />
+    <Project Path="StaySphere.Infrastructure/StaySphere.Infrastructure.csproj" Id="1352ca27-156a-4aa4-a093-f0990dc00e52" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>
